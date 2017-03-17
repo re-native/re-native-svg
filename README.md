@@ -6,3 +6,10 @@ Meant for use with reagent and re-frame
 Tracking      | Artifact
 --------------|---------|
 `5.1.3`       | `[re-native/svg "0.0.1-SNAPSHOT"]`
+
+In your re-natal project:
+
+```
+npm i react-native-svg@5.1.3 --save
+re-natal use-component react-native-svg
+```
